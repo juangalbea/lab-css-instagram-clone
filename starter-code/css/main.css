@@ -17,7 +17,7 @@ h1 {
 }
 
 .top {
-  background-color: #547B9E;
+  background-image: url("../images/bgtile.png");
   position: relative;
   height: 300px;
   width: 100%;
@@ -51,9 +51,10 @@ h1 {
 }
 
 .down {
-  background-color: white;
-  padding: 20px;
-  border-radius: 1%;
+  background-image: url("../images/frame.png");
+  background-size: 100%;
+  padding: 50px;
+  
 }
 
 .badge {
